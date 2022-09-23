@@ -163,3 +163,5 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [F](https://github.com/Alfarqun)
  Author | suhu | suhu
+ Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+
